@@ -14,8 +14,7 @@ public class UC1CreateStack {
 	number.push(70);
 	number.push(30);
 	number.push(56);
-	
-    System.out.println(number);
-    
-	}
+		
+   System.out.println(number);
+    }
 }
